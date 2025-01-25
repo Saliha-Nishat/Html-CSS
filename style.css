@@ -1,0 +1,31 @@
+h1{
+    color:rgb(79, 12, 71)
+}
+h2{
+    color: rgb(19, 2, 42);
+}
+*{
+    background: color#3ea7c7;
+}
+*{
+    color: rgb(33, 3, 61);
+}
+#heading1
+{
+    color: rgb(180, 183, 14);
+}
+#heading2
+{
+    color: rgb(15, 3, 53);
+}
+#myClass
+{
+    color: rgb(59, 23, 137);
+}
+#box {
+background-color: rgb(26, 201, 249);
+}
+*{
+    margin: 12px;
+    padding: 12px;
+}
